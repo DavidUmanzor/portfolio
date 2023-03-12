@@ -6,8 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Webpage Portfolio</h1>
         <p>
+          This is a starter page for my portfolio!
+          I am a University of Central Florida computer science student
+
           Edit <code>src/App.js</code> and save to reload.
+          Hello
         </p>
         <a
           className="App-link"
